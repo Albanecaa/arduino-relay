@@ -1,0 +1,10 @@
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\bin\Debug\ArduinoRelay.exe.config
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\bin\Debug\ArduinoRelay.exe
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\bin\Debug\ArduinoRelay.pdb
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.csproj.AssemblyReference.cache
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.Form1.resources
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.Properties.Resources.resources
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.csproj.GenerateResource.cache
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.csproj.CoreCompileInputs.cache
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.exe
+C:\Users\paco_\source\repos\ArduinoRelay\ArduinoRelay\obj\Debug\ArduinoRelay.pdb
