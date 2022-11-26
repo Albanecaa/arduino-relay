@@ -7,7 +7,7 @@ Steps
 Info
 *if you have difficulty contact me*
 *Contact with me:
-Discord: Heetss#8345
+Discord: Albaneca#8345
 *
 
 Social Network
